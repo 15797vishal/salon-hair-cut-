@@ -1,0 +1,16 @@
+
+body{
+    padding: 154px;
+    background: #ccc;
+    margin: 50px;
+    font-family: Arial ;
+background-image: url(./images/cover_1.jpg);
+background-position: 80%;
+top: 50%;
+bottom: 20%;
+
+}
+
+.navbar{
+    background-position: right;
+}
